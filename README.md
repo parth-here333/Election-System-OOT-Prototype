@@ -141,7 +141,7 @@ g++ main.cpp -o election
 
 ## 👨‍💻 Author
 
-* **Paarth Acharya**
+* **Parth Acharya**
 
 ---
 
