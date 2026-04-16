@@ -142,6 +142,7 @@ g++ main.cpp -o election
 ## 👨‍💻 Author
 
 * **Parth Acharya**
+* **M. Venkata Prajyesh**
 
 ---
 
